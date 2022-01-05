@@ -1,7 +1,7 @@
 ### Howdy :cowboy_hat_face:
 - I'm Charles 👋
 - Programmer/Developer 💻
-- Looking for new and exciting ways to expand my skills 🤔
+- Looking for new and exciting ways to expand my skills 🌟
 - Love to learn and apply ideas and technologies 🧠
 
 🐕
