@@ -1,8 +1,3 @@
-### Howdy :cowboy_hat_face:
-- Programmer/Developer 💻
-- Looking for new and exciting ways to expand my skills 🌟
-- Love to learn and apply ideas and technologies 🧠
-
 🐕
 <!--
 **charlesw25/charlesw25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
